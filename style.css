@@ -1,0 +1,41 @@
+body {
+  background: #d2d2c1 url('images/fundo.png');
+  font: 16px Arial, Helvetica, sans-serif;
+}
+
+#main {
+  width: 900px;
+}
+
+#navigation {
+  background: #c5c5b2;
+  padding: 18px;
+  color: #4a5874;
+}
+
+a {
+  text-decoration: none;
+  color: #4a5874;
+  font-weight: 600;
+  padding: 5px;
+}
+
+h1 {
+  color: #91917c;
+  font-size: 1.2em;
+}
+#content {
+  background-color: white;
+  padding: 10px;
+  color: #514041;
+}
+.imgCampanha {
+  display: block;
+  margin: auto auto;
+  border: 10px solid #c5c5b2;
+}
+
+.copyright {
+  text-align: center;
+  color: #4a5874;
+}
